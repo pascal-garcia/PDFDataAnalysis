@@ -1,0 +1,5 @@
+final_folder = r"Documents\NewWorkflow\Final"
+scan_folder = r"Documents\NewWorkflow\Scan"
+result_folder = r"Documents\NewWorkflow\Result"
+conversion_sheet = r"Documents\NewWorkflow\Conversion.xlsx"
+docdata_sheet = r"Documents\NewWorkflow\document_data.csv"
